@@ -1,0 +1,59 @@
+/* Estilos para el encabezado */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para los artículos */
+article {
+    margin-bottom: 40px;
+}
+
+/* Estilos para cada sección */
+section {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Estilos para los títulos de las secciones */
+section h2 {
+    color: #333;
+}
+
+/* Estilos para los párrafos de las secciones */
+section p {
+    line-height: 1.6;
+}
+
+/* Estilos para las imágenes */
+section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Estilos para los enlaces */
+section a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Estilos para la tabla */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table th, table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+table th {
+    background-color: #f2f2f2;
+}
